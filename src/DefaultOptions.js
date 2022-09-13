@@ -2,7 +2,7 @@ export default {
     modules: [
         'DisplaySize',
         'Toolbar',
-        'Resize',
+        
     ],
     overlayStyles: {
         position: 'absolute',
